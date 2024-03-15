@@ -1,0 +1,29 @@
+**Data Deletion Instructions**
+
+If you no longer wish to use the App and want to delete your data from our system, you can follow the steps outlined below:
+
+**1. Access Your Account Settings**
+
+Log in to your account associated with the App.
+
+**2. Navigate to Data Settings**
+
+Once logged in, navigate to the settings section of the App where you can manage your account or data preferences.
+
+**3. Locate Data Deletion Option**
+
+Look for an option that allows you to delete your data or account from the App. This option may be labeled as "Delete Account," "Delete Data," or similar.
+
+**4. Follow the Prompts**
+
+Follow the prompts provided by the App to initiate the data deletion process. You may be asked to confirm your decision or provide additional information.
+
+**5. Confirmation of Deletion**
+
+After completing the deletion process, you should receive a confirmation message indicating that your data has been deleted from our system.
+
+**6. Contact Us**
+
+If you encounter any difficulties or have questions about the data deletion process, please contact us at rens@wedentify.nl We will be happy to assist you further.
+
+Please note that deleting your data from the App may result in the permanent loss of access to certain features or functionalities. Additionally, please be aware that deleting your data from the App does not necessarily delete all copies of your data from our backup systems or from third-party service providers who may have received your data in accordance with this Privacy Policy.
