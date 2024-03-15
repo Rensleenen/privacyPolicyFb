@@ -1,0 +1,53 @@
+**Privacy Policy**
+
+**1. Information We Collect**
+
+When you use the App, we may collect the following types of information:
+
+- **Personal Information**: We may collect personal information such as your name, email address, Instagram username, and any other information you provide to us voluntarily.
+
+- **Access Credentials**: In order to access your Instagram feed, you will need to provide us with the necessary access credentials, including your Instagram username and password or access token.
+
+- **Usage Information**: We may collect information about how you use the App, including the types of content you view or interact with, the features you use, and other actions you take while using the App.
+
+- **Device Information**: We may collect information about the device you use to access the App, including the device type, operating system, unique device identifiers, and mobile network information.
+
+**2. How We Use Your Information**
+
+We may use the information we collect for the following purposes:
+
+- **To Provide and Improve the App**: We use the information to provide the App to you and to improve its features and functionality.
+
+- **To Communicate with You**: We may use your contact information to communicate with you about your use of the App, respond to your inquiries, and provide you with important updates or information.
+
+- **To Personalize Your Experience**: We may use the information to personalize your experience with the App, such as by providing tailored content or recommendations based on your preferences and usage patterns.
+
+- **To Ensure Security**: We may use the information to protect the security and integrity of the App and to prevent fraud or other unauthorized activities.
+
+**3. Sharing of Information**
+
+We may share your information with third parties in the following circumstances:
+
+- **With Your Consent**: We may share your information with third parties if you provide us with your consent to do so.
+
+- **For Legal Purposes**: We may share your information with third parties if we believe that disclosure is necessary to comply with applicable laws, regulations, or legal processes, or to protect the rights, property, or safety of our users or others.
+
+- **With Service Providers**: We may share your information with third-party service providers who perform services on our behalf, such as hosting, data analysis, and customer support services.
+
+**4. Data Retention**
+
+We will retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+**5. Your Rights**
+
+You may have certain rights regarding your information, including the right to access, correct, or delete your information. Please contact us using the contact information provided below if you would like to exercise any of these rights.
+
+**6. Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or applicable laws. We will notify you of any material changes by posting the updated Privacy Policy on our website or through other means of communication.
+
+**7. Contact Us**
+
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at rens@wedentify.nl.
+
+By using the App, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
